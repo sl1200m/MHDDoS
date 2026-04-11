@@ -89,6 +89,10 @@ python3 start.py tools
 ---
 
 
+git clone https://github.com/theekshana623/MHDDoS.git
 
+cd MHDDoS
 
+pip install -r requirements.txt
 
+python3 start.py (method) https://yousite.com 5 100 proxy.txt 100 10
